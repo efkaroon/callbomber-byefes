@@ -13,9 +13,7 @@
 
 <html>
   <head>
-    <title>
-       HİÇBİR SORUMLULUK KABUL EDİLMEMEKTEDİR❗❗❗
-    </title>
+       HİÇBİR SORUMLULUK KABUL EDİLMEMEKTEDİR❗❗
    
   </head>
   
